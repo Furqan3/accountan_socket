@@ -58,8 +58,8 @@ The `.env` file is already configured with your Supabase credentials. Verify the
 
 ```env
 PORT=4000
-SUPABASE_URL=https://busqfmdrslmursuxwmjj.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+SUPABASE_URL=https://.....supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJh......CI6IkpXVCJ9...
 ALLOWED_ORIGINS=http://localhost:3000,http://localhost:3001
 NODE_ENV=development
 ```
